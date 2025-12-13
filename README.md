@@ -1,6 +1,7 @@
 # Inferencer
 Public roadmap for [Inferencer](https://inferencer.com). Ideas, feature requests, and bug reports are all welcome.
 
+- Ask questions
 - Vote for improvements
 - Share your **ideas** and feature requests
 - Report any **bugs** or issues you encounter
@@ -16,14 +17,15 @@ Visit the [Issues](https://github.com/inferencerlabs/inferencer-feedback/issues)
 
 ---
 
-## How to Submit Feedback
+## How to Submit Feedback or Ask Questions
 
 1. Visit the [Issues](https://github.com/inferencerlabs/inferencer-feedback/issues) section and check to see if your idea or bug has already been reported.
-2. If not, create a new issue using one of the templates below:  
-   - **Feature Request** – Suggest new ideas or improvements  
-   - **Bug Report** – Report any problems or unexpected behavior  
+2. If not, create a new issue with a prefix, e.g.:
+   - **[Feature]** – Suggest new ideas or improvements  
+   - **[Bug]** – Report any problems or unexpected behavior  
+   - **[Question]** – Ask any questions
 
-Please be as detailed as possible so we can understand your feedback.
+Please be as detailed as possible so we can understand your issue.
 
 ---
 
