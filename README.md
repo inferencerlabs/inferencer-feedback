@@ -35,7 +35,8 @@ We welcome all constructive feedback and ideas. Please:
 
 - Be respectful and clear  
 - Avoid duplicate reports by searching existing issues  
-- Provide as much context as possible  
+- Provide as much context as possible
+- Avoid direct links to or criticism of other communities
 
 ---
 
